@@ -29,9 +29,6 @@
     <colorLink><![CDATA[#969696]]></colorLink>
     <lineHeight><![CDATA[20px]]></lineHeight>
   </menu>
-  <tagsMenu>
-    <hidden><![CDATA[yes]]></hidden>
-  </tagsMenu>
   <entryLayout>
     <galleryMargin><![CDATA[8px]]></galleryMargin>
   </entryLayout>
